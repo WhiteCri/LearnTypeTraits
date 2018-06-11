@@ -1,6 +1,7 @@
 // is_null_pointer example
 #include <iostream>
 #include <type_traits>
+#include <typeinfo>
 
 int main() {
 	int* a = 0;
